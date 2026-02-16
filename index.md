@@ -9,10 +9,10 @@ title: CR2 Workshop @ ICRA 2026
 ## Debates on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 Workshop at ICRA 2026
 
-### Abstract
+<h2 id="abstract">Abstract</h2>
 Contact-rich robotics, where robots skillfully interact with the world through physical contact, represents one of the most challenging frontiers in robotics today. Recently, we have seen significant advances in contact representation and control algorithms that also have led to widening gaps between communities. This workshop aims to close these gaps by bringing together leading researchers in the field to participate in a series of facilitated discussions to identify promising research directions, and work toward consensus on key open problems that must be solved to achieve truly generalizable contact-rich robotics systems in the open world.
 
-### Panelists
+<h2 id="panelists">Panelists</h2>
 We are excited to welcome the following expert guest panelists from across both industry and academia with representation from different genders, geographic locations, and career stages.
 
 <div class="panelists">
@@ -28,30 +28,7 @@ We are excited to welcome the following expert guest panelists from across both 
   </div>
 </div>
 
-{% comment %}
-<div class="card-columns">
-{% assign sorted_panelists = site.panelists | sort: "title" %}
-  <!-- Generate cards for each project -->
-{% for p in sorted_panelists %}
-    {% include project-card.html project=p %}
-{% endfor %}
+<h2 id="schedule">Schedule</h2>
 
-{% assign sorted_panelists = site.panelists | sort: "importance" %}
-  <!-- Generate cards for each project -->
-{% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for panelist in sorted_panelists %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for panelist in sorted_panelists %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-{% endif %}
-</div>
-{% endcomment %}
+
+<h2 id="organizers">Organizers</h2>

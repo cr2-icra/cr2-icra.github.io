@@ -18,10 +18,17 @@
     display: flex;
     flex-direction: column;
 
-    img {
-      width: 160px;
-      height: 160px;
+    img.project-img {
+      width: 160px !important;
+      height: 160px !important;
+      max-width: 160px !important;
+      max-height: 160px !important;
+    
+      border-radius: 50%;
+      object-fit: cover;
       display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 

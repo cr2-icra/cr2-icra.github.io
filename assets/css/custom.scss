@@ -1,3 +1,13 @@
+img.project-img {
+  width: 160px !important;
+  height: 160px !important;
+  max-width: 160px !important;
+  max-height: 160px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  outline: 5px solid red !important;
+}
+
 // Panelists
 .panelists {
   a {

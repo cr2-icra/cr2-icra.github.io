@@ -28,7 +28,70 @@ We are excited to welcome the following expert guest panelists from across both 
   </div>
 </div>
 
-<h2 id="schedule">Schedule</h2>
+<h2 id="schedule">Tentative Schedule</h2>
+<div class="table-responsive">
+  <table class="table table-sm table-striped">
+    <thead>
+      <tr>
+        <th style="width: 18%;">Time</th>
+        <th style="width: 52%;">Session</th>
+        <th style="width: 30%;">Speakers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>09:00 – 09:15</td>
+        <td>Welcome + intro</td>
+        <td>Organizers</td>
+      </tr>
+      <tr>
+        <td>09:15 – 10:15</td>
+        <td>Discussion 1: Contact Model Representations</td>
+        <td>Nima Fazeli, Marc Toussaint, Yuval Tassa</td>
+      </tr>
+      <tr>
+        <td>10:15 – 11:00</td>
+        <td>Coffee break + poster session</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>11:00 – 12:00</td>
+        <td>Spotlight talks (4-5 slots)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>12:00 – 01:30</td>
+        <td>Lunch break</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>01:30 – 02:30</td>
+        <td>Discussion 2: Algorithms for Contact-Rich Control</td>
+        <td>Justin Carpentier, Bibit Bianchini, Hae-Won Park</td>
+      </tr>
+      <tr>
+        <td>02:30 – 03:30</td>
+        <td>Spotlight talks (4-5 slots)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>03:30 – 04:15</td>
+        <td>Coffee break + poster session</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>04:15 – 05:15</td>
+        <td>Discussion 3: State and Future for Contact-Rich Control</td>
+        <td>Matt Mason, Aaron Ames, Aaron Johnson, Dmitry Berenson</td>
+      </tr>
+      <tr>
+        <td>05:15 – 05:30</td>
+        <td>Conclusions</td>
+        <td>Organizers</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 <h2 id="organizers">Organizers</h2>

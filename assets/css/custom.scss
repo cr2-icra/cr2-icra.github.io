@@ -2,6 +2,8 @@
 .panelists {
   a {
     text-decoration: none;
+    color: inherit;
+    display: block;
 
     &:hover {
       .card-title {
@@ -10,28 +12,68 @@
     }
   }
 
+  // Cards should stretch nicely
   .card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
     img {
       width: 100%;
-      display: flex;
-      flex-direction: column;
+      height: auto;
+      display: block;
     }
   }
 
+  // ===== Horizontal cards (projects_horizontal.liquid) =====
   .card-item {
     width: auto;
     margin-bottom: 10px;
 
+    // Bootstrap row: don't vertically center, let content start at top
     .row {
+      align-items: stretch; // key change from center
+      height: 100%;
+    }
+
+    // Make the text column behave like a full-height flex column
+    .card-body {
+      height: 100%;
       display: flex;
-      align-items: stretch;
+      flex-direction: column;
+    }
+
+    // Push icons row to bottom
+    .card-text {
+      flex: 1;
+    }
+
+    // If you wrapped the image in a div, this makes it crop nicely
+    .card-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
   }
 
+  // ===== Vertical cards (grid layout) =====
   .grid-sizer,
   .grid-item {
     width: 250px;
     margin-bottom: 10px;
+  }
+
+  // Make vertical card bodies flex too
+  .grid-item {
+    .card-body {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .card-text {
+      flex: 1;
+    }
   }
 
   h2.category {

@@ -94,7 +94,7 @@ We are excited to welcome the following expert guest panelists from across both 
 </div>
 
 <h2 id="calls">Calls</h2>
-The experimental philosophy of this workshop is an emphasis on in-progress work and how our convictions about and perceptions of the field and our own research is under constant change. In this spirit, CR2 is not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls are below:
+This workshop is emphasizing in-progress work and how our convictions about and perceptions of the field are under constant change. In this spirit, CR2 is not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls are below:
 
 ### Call for workshop posters
 We will have two poster sessions complementing the three debate topics. We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. [...]

@@ -90,3 +90,20 @@
     text-align: right;
   }
 }
+
+.callout {
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 12px;
+
+  background: #f3f6ff;
+  border: 1px solid #d6e0ff;
+
+  h3 {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}

@@ -94,7 +94,7 @@ We are excited to welcome the following expert guest panelists from across both 
 </div>
 
 <div class="callout">
-  <h2> id="calls">Calls</h2>
+  <h2 id="calls">Calls</h2>
   <p>
     This workshop is emphasizing in-progress work and how our convictions about and perceptions of the field are under constant change. In this spirit, CR2 is not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls are below:
   </p>

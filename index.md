@@ -93,5 +93,22 @@ We are excited to welcome the following expert guest panelists from across both 
   </table>
 </div>
 
+<h2 id="calls">Calls</h2>
+The experimental philosophy of this workshop is an emphasis on in-progress work and how our convictions about and perceptions of the field and our own research is under constant change. In this spirit, CR2 is not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls are below:
+
+### Call for workshop posters
+We will have two poster sessions complementing the three debate topics. We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. [...]
+
+### Call for spotlight talks
+We will have two spotlight talk sections, each with 4-5 open slots of 10-12 minutes. We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a video of the speaker with a brief snippet of the proposed talk. [...]
 
 <h2 id="organizers">Organizers</h2>
+John Zhang [Primary Contact], Carnegie Mellon University, johnzhang [at] cmu [dot] edu  
+Jon Arrizabalaga, Technical University of Munich, jon [dot] arrizabalaga [at] tum [dot] de  
+Grey Sarmiento, University of Pennsylvania, greysar [at] seas [dot] upenn [dot] edu  
+Arun Bishop, Carnegie Mellon University, arunleob [at] cmu [dot] edu  
+Simon Le Cleac’h, The Robotics and AI Institute, slecleach [at] rai-inst [dot] com  
+Preston Culbertson, Cornell University, pdc79 [at] cornell [dot] edu  
+Xianyi Cheng, Duke University, xianyi [dot] cheng [at] duke [dot] edu  
+Zachary Manchester, Carnegie Mellon University->MIT, zacm [at] cmu [dot] edu  
+Michael Posa, University of Pennsylvania, posa [at] seas [dot] upenn [dot] edu  

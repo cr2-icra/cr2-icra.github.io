@@ -148,7 +148,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
     <li>Should model-based control beat out learning? Should it be competitive? How do we convince the community that it's real?</li>
     <li>Is perception optional? Do lessons learned using full-state feedback translate to systems with noisy/high-dimensional sensing?</li>
     <li>What importance should we place on rigid bodies vs. deformable?</li>
-    <li>Do we need to develop better tools? MJPC comes to mind here.</li>
+    <li>Do we need to develop better tools?</li>
     <li>Do we need benchmark tasks? If so, what would they be?</li>
     <li>How should we judge controllers for contact-rich tasks?</li>
   </ul>

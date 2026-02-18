@@ -21,8 +21,6 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 </ul>
 
 <h2 id="panelists">Panelists</h2>
-We are excited to welcome the following expert guest panelists from across both industry and academia with representation from different genders, geographic locations, and career stages.
-
 <div class="panelists">
   <div class="container px-0">
     <div class="row">

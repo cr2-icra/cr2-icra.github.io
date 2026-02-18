@@ -102,16 +102,15 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 <div class="callout">
   <h2 id="calls">Calls for Participation</h2>
   <p>
-    This workshop is emphasizing in-progress work and how our convictions and perceptions in the field are under constant change. In this spirit, CR2 is not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls are below:
+    This workshop is emphasizing in-progress work and how our convictions and perceptions in the field are under constant change. In this spirit, we not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls for participation are below:
   </p>
   <h5>Call for abstracts</h5>
   <p>
     We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE conference format</a>. This submission will undergo a double-bline review process. Accepted abstracts will be presented at one of the two poster sessions during the workshop. [...]
   </p>
-
   <h5>Call for spotlight talks</h5>
   <p>
-    We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a 1 minute video summary with speaker audio along with a brief abstract of the proposed talk. [...]
+    We are soliciting traditional research talks with an emphasis on new results and the works of younger researchers. In submissions for this category, please include a 1 minute video summary (with speaker audio) along with a brief abstract of the proposed talk. [...]
   </p>
 
   <h5>Submission Portal</h5>

@@ -8,7 +8,7 @@ title: CR2 @ ICRA 2026
 
 ## Workshop on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 
-June 1st, 2026. Vienna, Austria.
+June 1st, 2026. Vienna, Austria. Room TBA
 
 <h2 id="abstract">Overview</h2>
 Contact-rich robotics, where robots skillfully interact with the world through physical contact, represents one of the most challenging frontiers in robotics today. Recently, we have seen significant advances in contact representation and control algorithms that also have led to widening gaps between communities. This workshop aims to close these gaps by bringing together leading researchers in the field to participate in a series of facilitated discussions to identify promising research directions, and work toward consensus on key open problems that must be solved to achieve truly generalizable contact-rich robotics systems in the open world.
@@ -106,25 +106,25 @@ We are excited to welcome the following expert guest panelists from across both 
   <p>
     This workshop is emphasizing in-progress work and how our convictions and perceptions in the field are under constant change. In this spirit, CR2 is not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls are below:
   </p>
-  <h3>Call for workshop posters</h3>
+  <h5>Call for abstracts</h5>
   <p>
-    We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html). This submission will undergo a double-bline review process. [...]
+    We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html). This submission will undergo a double-bline review process. Accepted abstracts will be presented at one of the two poster sessions during the workshop. [...]
   </p>
 
-  <h3>Call for spotlight talks</h3>
+  <h5>Call for spotlight talks</h5>
   <p>
     We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a 1 minute video summary with speaker audio along with a brief abstract of the proposed talk. [...]
   </p>
 
-  <h3>Submission Portal</h3>
+  <h5>Submission Portal</h5>
   <p>
-    All submissions should be made through <a href="https://openreview.net">OpenReview</a> TBD.
+    All submissions should be made through <a href="https://openreview.net">OpenReview</a> (TBA).
   </p>
 
-  <h3>Topics of Interest</h3>
+  <h2>Topics of Interest</h2>
   <p>We welcome submissions related to, but not limited to, the following topics:</p>
 
-  <h4>Contact Model Representations</h4>
+  <h5>Contact Model Representations</h5>
   <ul>
     <li>How do learned models compare against analytical models?</li>
     <li>Should we impose structure when learning contact models?</li>
@@ -135,7 +135,7 @@ We are excited to welcome the following expert guest panelists from across both 
     <li>How well do current models/simulations of contact match empirical data? What level of accuracy is needed for control?</li>
   </ul>
 
-  <h4>Algorithms for Contact-Rich Control</h4>
+  <h5>Algorithms for Contact-Rich Control</h5>
   <ul>
     <li>What are the relative strengths and weaknesses of the various approaches (e.g. sampling, based in differentiable simulation, or non-convex optimization)?</li>
     <li>What are the truly difficult aspects of contact-rich control? Scale? Friction? The hybrid elements? Of these, what matters for actual robot deployment?</li>
@@ -146,7 +146,7 @@ We are excited to welcome the following expert guest panelists from across both 
     <li>What role should tactile/force feedback play?</li>
   </ul>
 
-  <h4>The State and Future of Contact-Rich Control</h4>
+  <h5>The State and Future of Contact-Rich Control</h5>
   <ul>
     <li>Should model-based control beat out learning? Should it be competitive? How do we convince the community that it's real?</li>
     <li>Is perception optional? Do lessons learned using full-state feedback translate to systems with noisy/high-dimensional sensing?</li>

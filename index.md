@@ -20,7 +20,7 @@ We are excited to welcome the following expert guest panelists from across both 
     <div class="row">
       {% assign sorted_panelists = site.panelists | sort: "title" %}
       {% for p in sorted_panelists %}
-        <div class="col-12 col-md-6 col-lg-3 mb-3 d-flex">
+        <div class="col-12 col-md-6 col-lg-4 mb-3 d-flex">
           {% include project-card.html project=p %}
         </div>
       {% endfor %}
@@ -116,7 +116,7 @@ We are excited to welcome the following expert guest panelists from across both 
     <div class="row">
       {% assign sorted_organizers = site.organizers | sort: "importance" %}
       {% for o in sorted_organizers %}
-        <div class="col-12 col-md-6 col-lg-3 mb-3 d-flex">
+        <div class="col-12 col-md-6 col-lg-4 mb-3 d-flex">
           {% include project-card.html project=o %}
         </div>
       {% endfor %}

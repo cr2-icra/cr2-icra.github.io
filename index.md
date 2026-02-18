@@ -1,16 +1,24 @@
 ---
 layout: home
-title: CR2 Workshop @ ICRA 2026
+title: CR2 @ ICRA 2026
 ---
 <head>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
-## Debates on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
-Workshop at ICRA 2026
+## Workshop on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 
-<h2 id="abstract">Introduction</h2>
+June 1st, 2026. Vienna, Austria.
+
+<h2 id="abstract">Overview</h2>
 Contact-rich robotics, where robots skillfully interact with the world through physical contact, represents one of the most challenging frontiers in robotics today. Recently, we have seen significant advances in contact representation and control algorithms that also have led to widening gaps between communities. This workshop aims to close these gaps by bringing together leading researchers in the field to participate in a series of facilitated discussions to identify promising research directions, and work toward consensus on key open problems that must be solved to achieve truly generalizable contact-rich robotics systems in the open world.
+
+<h2 id="important-dates">Important Dates</h2>
+<ul>
+  <li><strong>Submission Deadline:</strong> TBD</li>
+  <li><strong>Notification of Acceptance:</strong> TBD</li>
+  <li><strong>Workshop Date:</strong> June 1st, 2026</li>
+</ul>
 
 <h2 id="panelists">Panelists</h2>
 We are excited to welcome the following expert guest panelists from across both industry and academia with representation from different genders, geographic locations, and career stages.
@@ -100,13 +108,54 @@ We are excited to welcome the following expert guest panelists from across both 
   </p>
   <h3>Call for workshop posters</h3>
   <p>
-    We will have two poster sessions complementing the three debate topics. We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. [...]
+    We will have two poster sessions complementing the three debate topics. We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit a paper abstract (no more than 4 pages) in [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html). This submission will undergo a double-bline review process. [...]
   </p>
 
   <h3>Call for spotlight talks</h3>
   <p>
-    We will have two spotlight talk sections, each with 4-5 open slots of 10-12 minutes. We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a 1 minute video summary with speaker audio along with a brief snippet of the proposed talk. [...]
+    We will have two spotlight talk sessions, each with 4-5 open slots of 10-12 minutes. We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a 1 minute video summary with speaker audio along with a brief abstract of the proposed talk. [...]
   </p>
+
+  <h3>Submission Portal</h3>
+  <p>
+    All submissions should be made through <a href="https://openreview.net">OpenReview</a>.
+  </p>
+
+  <h3>Topics of Interest</h3>
+  <p>We welcome submissions related to, but not limited to, the following topics:</p>
+
+  <h4>Contact Model Representations</h4>
+  <ul>
+    <li>How do learned models compare against analytical models?</li>
+    <li>Should we impose structure when learning contact models?</li>
+    <li>How should we compare rigid and compliant (or differentiable) models?</li>
+    <li>What are the challenges for simulating contact on GPUs?</li>
+    <li>Do (visual) world models understand contact interactions?</li>
+    <li>Do simple analytic models (e.g. rigid bodies, complementarity, etc.) work with real sensors (e.g. vision)? What about deformable objects or granular media? What's the utility of algorithms based on these simple models?</li>
+    <li>How well do current models/simulations of contact match empirical data? What level of accuracy is needed for control?</li>
+  </ul>
+
+  <h4>Algorithms for Contact-Rich Control</h4>
+  <ul>
+    <li>What are the relative strengths and weaknesses of the various approaches (e.g. sampling, based in differentiable simulation, or non-convex optimization)?</li>
+    <li>What are the truly difficult aspects of contact-rich control? Scale? Friction? The hybrid elements? Of these, what matters for actual robot deployment?</li>
+    <li>For algorithms which find approximately-optimal or approximately-feasible solutions, how should the results be compared?</li>
+    <li>For algorithms which find local solutions, how should we discuss convergence properties? For example, algorithms might be better or worse at "discovering" contact modes, or optimizing within some mode sequence.</li>
+    <li>Are zeroth-order optimizers superior to gradient-based optimizers for contact-rich control?</li>
+    <li>Should we bridge the sim-real gap by adapting the policy or the model?</li>
+    <li>What role should tactile/force feedback play?</li>
+  </ul>
+
+  <h4>The State and Future of Contact-Rich Control</h4>
+  <ul>
+    <li>Should model-based control beat out learning? Should it be competitive? How do we convince the community that it's real?</li>
+    <li>Is perception optional? Do lessons learned using full-state feedback translate to systems with noisy/high-dimensional sensing?</li>
+    <li>What importance should we place on rigid bodies vs. deformable?</li>
+    <li>Do we need to develop better tools? MJPC comes to mind here.</li>
+    <li>Do we need benchmark tasks? If so, what would they be?</li>
+    <li>How should we judge controllers for contact-rich tasks?</li>
+  </ul>
+
 </div>
 
 <h2 id="organizers">Organizers</h2>

@@ -20,7 +20,7 @@ We are excited to welcome the following expert guest panelists from across both 
     <div class="row">
       {% assign sorted_panelists = site.panelists | sort: "title" %}
       {% for p in sorted_panelists %}
-        <div class="col-12 col-md-6 col-lg-4 mb-3 d-flex">
+        <div class="col-12 col-md-6 col-lg-3 mb-3 d-flex">
           {% include project-card.html project=p %}
         </div>
       {% endfor %}
@@ -47,7 +47,7 @@ We are excited to welcome the following expert guest panelists from across both 
       <tr>
         <td>09:15 – 10:15</td>
         <td>Debate 1: Contact Model Representations</td>
-        <td>Nima Fazeli, Marc Toussaint, Yuval Tassa</td>
+        <td>Nima Fazeli, Marc Toussaint, Yuval Tassa, Yilun Du</td>
       </tr>
       <tr>
         <td>10:15 – 11:00</td>
@@ -94,7 +94,7 @@ We are excited to welcome the following expert guest panelists from across both 
 </div>
 
 <div class="callout">
-  <h2 id="calls">Calls</h2>
+  <h2 id="calls">Calls for Participation</h2>
   <p>
     This workshop is emphasizing in-progress work and how our convictions and perceptions in the field are under constant change. In this spirit, CR2 is not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls are below:
   </p>
@@ -105,7 +105,7 @@ We are excited to welcome the following expert guest panelists from across both 
 
   <h3>Call for spotlight talks</h3>
   <p>
-    We will have two spotlight talk sections, each with 4-5 open slots of 10-12 minutes. We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a video of the speaker with a brief snippet of the proposed talk. [...]
+    We will have two spotlight talk sections, each with 4-5 open slots of 10-12 minutes. We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a 1 minute video summary with speaker audio along with a brief snippet of the proposed talk. [...]
   </p>
 </div>
 
@@ -116,7 +116,7 @@ We are excited to welcome the following expert guest panelists from across both 
     <div class="row">
       {% assign sorted_organizers = site.organizers | sort: "importance" %}
       {% for o in sorted_organizers %}
-        <div class="col-12 col-md-6 col-lg-4 mb-3 d-flex">
+        <div class="col-12 col-md-6 col-lg-3 mb-3 d-flex">
           {% include project-card.html project=o %}
         </div>
       {% endfor %}

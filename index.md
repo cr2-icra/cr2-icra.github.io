@@ -108,17 +108,17 @@ We are excited to welcome the following expert guest panelists from across both 
   </p>
   <h3>Call for workshop posters</h3>
   <p>
-    We will have two poster sessions complementing the three debate topics. We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit a paper abstract (no more than 4 pages) in [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html). This submission will undergo a double-bline review process. [...]
+    We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html). This submission will undergo a double-bline review process. [...]
   </p>
 
   <h3>Call for spotlight talks</h3>
   <p>
-    We will have two spotlight talk sessions, each with 4-5 open slots of 10-12 minutes. We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a 1 minute video summary with speaker audio along with a brief abstract of the proposed talk. [...]
+    We are soliciting traditional research talks with an emphasis on new results and the work of younger researchers. In submissions for this category, please include a 1 minute video summary with speaker audio along with a brief abstract of the proposed talk. [...]
   </p>
 
   <h3>Submission Portal</h3>
   <p>
-    All submissions should be made through <a href="https://openreview.net">OpenReview</a>.
+    All submissions should be made through <a href="https://openreview.net">OpenReview</a> TBD.
   </p>
 
   <h3>Topics of Interest</h3>

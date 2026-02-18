@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yuval Tassa
-description: Simulation Lead (MuJoCo) at Google Deepmind (London)
+description: Simulation Lead at Google Deepmind
 importance: 1
 category: panelists
 related_publications: true

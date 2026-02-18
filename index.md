@@ -9,7 +9,7 @@ title: CR2 Workshop @ ICRA 2026
 ## Debates on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 Workshop at ICRA 2026
 
-<h2 id="abstract">Abstract</h2>
+<h2 id="abstract">Introduction</h2>
 Contact-rich robotics, where robots skillfully interact with the world through physical contact, represents one of the most challenging frontiers in robotics today. Recently, we have seen significant advances in contact representation and control algorithms that also have led to widening gaps between communities. This workshop aims to close these gaps by bringing together leading researchers in the field to participate in a series of facilitated discussions to identify promising research directions, and work toward consensus on key open problems that must be solved to achieve truly generalizable contact-rich robotics systems in the open world.
 
 <h2 id="panelists">Panelists</h2>
@@ -35,7 +35,7 @@ We are excited to welcome the following expert guest panelists from across both 
       <tr>
         <th style="width: 18%;">Time</th>
         <th style="width: 52%;">Session</th>
-        <th style="width: 30%;">Speakers</th>
+        <th style="width: 30%;">Speakers/Panelists</th>
       </tr>
     </thead>
     <tbody>
@@ -46,7 +46,7 @@ We are excited to welcome the following expert guest panelists from across both 
       </tr>
       <tr>
         <td>09:15 – 10:15</td>
-        <td>Discussion 1: Contact Model Representations</td>
+        <td>Debate 1: Contact Model Representations</td>
         <td>Nima Fazeli, Marc Toussaint, Yuval Tassa</td>
       </tr>
       <tr>
@@ -66,8 +66,8 @@ We are excited to welcome the following expert guest panelists from across both 
       </tr>
       <tr>
         <td>01:30 – 02:30</td>
-        <td>Discussion 2: Algorithms for Contact-Rich Control</td>
-        <td>Justin Carpentier, Bibit Bianchini, Hae-Won Park</td>
+        <td>Debate 2: Algorithms for Contact-Rich Control</td>
+        <td>Justin Carpentier, Bibit Bianchini, Hae-Won Park, Emo Todorov</td>
       </tr>
       <tr>
         <td>02:30 – 03:30</td>
@@ -81,7 +81,7 @@ We are excited to welcome the following expert guest panelists from across both 
       </tr>
       <tr>
         <td>04:15 – 05:15</td>
-        <td>Discussion 3: State and Future for Contact-Rich Control</td>
+        <td>Debate 3: State and Future for Contact-Rich Control</td>
         <td>Matt Mason, Aaron Ames, Aaron Johnson, Dmitry Berenson</td>
       </tr>
       <tr>
@@ -110,14 +110,17 @@ We are excited to welcome the following expert guest panelists from across both 
 </div>
 
 <h2 id="organizers">Organizers</h2>
-John Zhang, Carnegie Mellon University  
-Jon Arrizabalaga, Technical University of Munich  
-Grey Sarmiento, University of Pennsylvania  
-Arun Bishop, Carnegie Mellon University  
-Simon Le Cleac’h, The Robotics and AI Institute  
-Preston Culbertson, Cornell University  
-Xianyi Cheng, Duke University  
-Zachary Manchester, Carnegie Mellon University->MIT  
-Michael Posa, University of Pennsylvania  
 
-for any questions please contact johnzhang [at] cmu [dot] edu  
+<div class="panelists">
+  <div class="container px-0">
+    <div class="row">
+      {% assign sorted_organizers = site.organizers | sort: "importance" %}
+      {% for o in sorted_organizers %}
+        <div class="col-12 col-md-6 col-lg-4 mb-3 d-flex">
+          {% include project-card.html project=o %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+

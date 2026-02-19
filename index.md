@@ -108,7 +108,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
   <p>
     We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE conference format</a>. This submission will undergo a double-bline review process. Accepted abstracts will be presented at one of the two poster sessions during the workshop. [...]
   </p>
-  <h5>Call for spotlight talks</h5>
+  <h5>Call for research talks</h5>
   <p>
     We are soliciting traditional research talks with an emphasis on new results and the works of younger researchers. In submissions for this category, please include a 1 minute video summary (with speaker audio) along with a brief abstract of the proposed talk. [...]
   </p>

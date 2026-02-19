@@ -123,34 +123,33 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 
   <h5>Contact Model Representations</h5>
   <ul>
-    <li>How do learned models compare against analytical models?</li>
-    <li>Should we impose structure when learning contact models?</li>
-    <li>How should we compare rigid and compliant (or differentiable) models?</li>
-    <li>What are the challenges for simulating contact on GPUs?</li>
-    <li>Do (visual) world models understand contact interactions?</li>
-    <li>Do simple analytic models (e.g. rigid bodies, complementarity, etc.) work with real sensors (e.g. vision)? What about deformable objects or granular media? What's the utility of algorithms based on these simple models?</li>
-    <li>How well do current models/simulations of contact match empirical data? What level of accuracy is needed for control?</li>
+    <li>Learned vs. analytical contact models</li>
+    <li>Structure-preserving learned models</li>
+    <li>Rigid and compliant and differentiable contact models</li>
+    <li>GPU-accelerated contact simulation</li>
+    <li>Contact reasoning in visual world models</li>
+    <li>Analytical and learned models for deformable objects, granular media</li>
+    <li>Sim-to-real fidelity and accuracy requirements for control</li>
   </ul>
 
   <h5>Algorithms for Contact-Rich Control</h5>
   <ul>
-    <li>What are the relative strengths and weaknesses of the various approaches (e.g. sampling, based in differentiable simulation, or non-convex optimization)?</li>
-    <li>What are the truly difficult aspects of contact-rich control? Scale? Friction? The hybrid elements? Of these, what matters for actual robot deployment?</li>
-    <li>For algorithms which find approximately-optimal or approximately-feasible solutions, how should the results be compared?</li>
-    <li>For algorithms which find local solutions, how should we discuss convergence properties? For example, algorithms might be better or worse at "discovering" contact modes, or optimizing within some mode sequence.</li>
-    <li>Are zeroth-order optimizers superior to gradient-based optimizers for contact-rich control?</li>
-    <li>Should we bridge the sim-real gap by adapting the policy or the model?</li>
-    <li>What role should tactile/force feedback play?</li>
+    <li>Sampling, differentiable simulation, and non-convex optimization methods</li>
+    <li>Key challenges for deployment: scale, friction, and hybrid dynamics</li>
+    <li>Evaluation and comparison of approximate solvers</li>
+    <li>Convergence properties and contact mode discovery in local solvers</li>
+    <li>Zeroth-order and gradient-based optimization for contact</li>
+    <li>Sim-to-real policy transfer and adaptation</li>
+    <li>Tactile and force feedback in contact-rich control</li>
   </ul>
 
   <h5>The State and Future of Contact-Rich Control</h5>
   <ul>
-    <li>Should model-based control beat out learning? Should it be competitive? How do we convince the community that it's real?</li>
-    <li>Is perception optional? Do lessons learned using full-state feedback translate to systems with noisy/high-dimensional sensing?</li>
-    <li>What importance should we place on rigid bodies vs. deformable?</li>
-    <li>Do we need to develop better tools?</li>
-    <li>Do we need benchmark tasks? If so, what would they be?</li>
-    <li>How should we judge controllers for contact-rich tasks?</li>
+    <li>Model-based and learning-based control</li>
+    <li>Perception and high-dimensional sensing for contact-rich tasks</li>
+    <li>Rigid body and deformable object manipulation</li>
+    <li>Tools and infrastructure for contact-rich robotics</li>
+    <li>Benchmarks and evaluation metrics for contact-rich control</li>
   </ul>
 
 </div>
@@ -169,4 +168,6 @@ Contact-rich robotics, where robots skillfully interact with the world through p
     </div>
   </div>
 </div>
+
+For questions or inquiries, please contact us at [cr2-icra2026@mit.edu](mailto:cr2-icra2026@mit.edu).
 

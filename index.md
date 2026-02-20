@@ -15,8 +15,8 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 
 <h2 id="important-dates">Important Dates</h2>
 <ul>
-  <li><strong>Submission Deadline:</strong> TBD</li>
-  <li><strong>Notification of Acceptance:</strong> TBD</li>
+  <li><strong>Submission Deadline:</strong> April 3rd, 2026</li>
+  <li><strong>Notification of Acceptance:</strong> April 17th, 2026</li>
   <li><strong>Workshop Date:</strong> June 1st, 2026</li>
 </ul>
 
@@ -52,7 +52,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
       </tr>
       <tr>
         <td>09:15 – 10:15</td>
-        <td>Debate 1: Contact Model Representations</td>
+        <td>Panel 1: Contact Model Representations</td>
         <td>Nima Fazeli, Marc Toussaint, Yuval Tassa, Yilun Du</td>
       </tr>
       <tr>
@@ -72,7 +72,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
       </tr>
       <tr>
         <td>01:30 – 02:30</td>
-        <td>Debate 2: Algorithms for Contact-Rich Control</td>
+        <td>Panel 2: Algorithms for Contact-Rich Control</td>
         <td>Justin Carpentier, Bibit Bianchini, Hae-Won Park, Emo Todorov</td>
       </tr>
       <tr>
@@ -87,7 +87,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
       </tr>
       <tr>
         <td>04:15 – 05:15</td>
-        <td>Debate 3: State and Future for Contact-Rich Control</td>
+        <td>Panel 3: State and Future for Contact-Rich Control</td>
         <td>Matt Mason, Aaron Ames, Aaron Johnson, Dmitry Berenson</td>
       </tr>
       <tr>
@@ -110,7 +110,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
   </p>
   <h5>Call for research talks</h5>
   <p>
-    We are soliciting traditional research talks with an emphasis on new results and the works of younger researchers. In submissions for this category, please include a 1 minute video summary (with speaker audio) along with a brief abstract of the proposed talk. [...]
+    We have 8-10 slots for solicited talks (10-15 minutes) to be selected from submitted abstracts. The selection process will emphasize new and creative ideas or results that have not previously been published. Work centered around papers being presented at ICRA will not be considered. We particularly encourage submissions from more junior researchers, loosely defined. For your submission to be considered for a talk, please include a 2-3 minute video summary (with speaker audio) along with a brief abstract of the proposed talk. The video summary should serve as a preview of what you would present, though we understand that the details of the talk will evolve between the submission date and the workshop itself.
   </p>
 
   <h5>Submission Portal</h5>

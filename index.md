@@ -155,19 +155,35 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 
 {% include callout.html content=calls_content %}
 
-<h2 id="organizers">Organizers</h2>
+<style>
+.organizers-grid {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+@media (min-width: 900px) {
+  .organizers-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+@media (min-width: 600px) and (max-width: 899px) {
+  .organizers-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media (max-width: 599px) {
+  .organizers-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+</style>
 
-<div class="panelists">
-  <div class="container px-0">
-    <div class="row">
-      {% assign sorted_organizers = site.organizers | sort: "importance" %}
-      {% for o in sorted_organizers %}
-        <div class="col-12 col-md-6 col-lg-4 mb-3 d-flex">
-          {% include project-card.html project=o %}
-        </div>
-      {% endfor %}
-    </div>
-  </div>
+<h2 id="organizers">Organizers</h2>
+<div class="organizers-grid">
+{% assign sorted_organizers = site.organizers | sort: "order" %}
+{% for person in sorted_organizers %}
+  {% include organizer-card.html person=person %}
+{% endfor %}
 </div>
 
 For questions or inquiries, please contact us at [cr2-icra2026@mit.edu](mailto:cr2-icra2026@mit.edu).

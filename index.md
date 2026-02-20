@@ -99,7 +99,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
   </table>
 </div>
 
-<div class="callout">
+{% capture calls_content %}
   <h2 id="calls">Calls for Participation</h2>
   <p>
     This workshop is emphasizing in-progress work and how our convictions and perceptions in the field are under constant change. In this spirit, we not calling for *any* invited speakers or presentations of published papers, especially papers that will be on the floor at ICRA. Instead, our calls for participation are below:
@@ -151,8 +151,9 @@ Contact-rich robotics, where robots skillfully interact with the world through p
     <li>Tools and infrastructure for contact-rich robotics</li>
     <li>Benchmarks and evaluation metrics for contact-rich control</li>
   </ul>
+{% endcapture %}
 
-</div>
+{% include callout.html content=calls_content %}
 
 <h2 id="organizers">Organizers</h2>
 

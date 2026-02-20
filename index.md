@@ -160,6 +160,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
   display: grid;
   gap: 1rem;
   margin-top: 1.5rem;
+  margin-bottom: 3rem;
 }
 @media (min-width: 900px) {
   .organizers-grid {

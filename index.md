@@ -1,12 +1,10 @@
 ---
 layout: home
-title: CR2 @ ICRA 2026
+title: Workshop on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 ---
 <head>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
-
-## Workshop on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 
 June 1st, 2026. Vienna, Austria. Room TBA
 
@@ -106,7 +104,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
   </p>
   <h5>Call for abstracts</h5>
   <p>
-    We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE conference format</a>. This submission will undergo a double-bline review process. Accepted abstracts will be presented at one of the two poster sessions during the workshop. [...]
+    We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE conference format</a>. This submission will undergo a double-bline review process. Accepted abstracts will be presented at one of the two poster sessions during the workshop.
   </p>
   <h5>Call for research talks</h5>
   <p>

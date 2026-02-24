@@ -1,10 +1,11 @@
 ---
 layout: home
-title: Workshop on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
+title: CR2@ICRA2026
 ---
 <head>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
+## Workshop on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 
 June 1st, 2026. Vienna, Austria. Room TBA
 

@@ -113,7 +113,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 
   <h5>Submission Portal</h5>
   <p>
-    All submissions should be made through <a href="https://openreview.net">OpenReview</a> (TBA).
+    All submissions should be made through <a href="https://openreview.net/group?id=IEEE.org/ICRA/2026/Workshop/CR2">OpenReview</a>.
   </p>
 
   <h2>Topics of Interest</h2>

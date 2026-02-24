@@ -8,7 +8,7 @@ title: CR2 @ ICRA 2026
 
 ## Workshop on the Path Towards Generalizable Contact-Rich Robotics: Control and Representation
 
-June 1st, 2026. Vienna, Austria. Room TBA
+June 1st, 2026. Vienna, Austria.
 
 <h2 id="abstract">Overview</h2>
 Contact-rich robotics, where robots skillfully interact with the world through physical contact, represents one of the most challenging frontiers in robotics today. Recently, we have seen significant advances in contact representation and control algorithms that also have led to widening gaps between communities. This workshop aims to close these gaps by bringing together leading researchers in the field to participate in a series of facilitated discussions to identify promising research directions, and work toward consensus on key open problems that must be solved to achieve truly generalizable contact-rich robotics systems in the open world.
@@ -115,7 +115,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 
   <h5>Submission Portal</h5>
   <p>
-    All submissions should be made through <a href="https://openreview.net">OpenReview</a> (TBA).
+    All submissions should be made through <a href="https://openreview.net/group?id=IEEE.org/ICRA/2026/Workshop/CR2">OpenReview</a>.
   </p>
 
   <h2>Topics of Interest</h2>

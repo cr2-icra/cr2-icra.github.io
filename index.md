@@ -105,7 +105,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
   </p>
   <h5>Call for abstracts</h5>
   <p>
-    We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE conference format</a>. This submission will undergo a double-bline review process. Accepted abstracts will be presented at one of the two poster sessions during the workshop.
+    We strongly emphasize and encourage the submission of late-breaking, speculative, or otherwise unpublished material. In this submission category, please submit an abstract (no more than 4 pages) in <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE conference format</a>. This submission will undergo a double-blind review process. Accepted abstracts will be presented at one of the two poster sessions during the workshop.
   </p>
   <h5>Call for research talks</h5>
   <p>

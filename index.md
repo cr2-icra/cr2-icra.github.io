@@ -15,7 +15,7 @@ Contact-rich robotics, where robots skillfully interact with the world through p
 <h2 id="important-dates">Important Dates</h2>
 <ul>
   <li><strong>Submission Deadline:</strong> April 3rd, 2026, Anywhere on Earth.</li>
-  <li><strong>Notification of Acceptance:</strong> April 17th, 2026</li>
+  <li><strong>Notification of Acceptance:</strong> April 21st, 2026</li>
   <li><strong>Workshop Date:</strong> June 1st, 2026</li>
 </ul>
 
